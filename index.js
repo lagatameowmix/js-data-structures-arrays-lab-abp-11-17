@@ -1,5 +1,5 @@
 // Write your solution here!
 const drivers = ["Milo", "Otis", "Garfield"]
-function destructivelyAppendDriver(){
-  append.Driver("Ralph")
+function destructivelyAppendDriver(name){
+  append.drivers(name)
 }
